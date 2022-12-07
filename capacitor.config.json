@@ -1,0 +1,6 @@
+{
+  "appId": "com.sebastiancurtislavarias.excerptme",
+  "appName": "excerpt.me",
+  "webDir": "dist/spa",
+  "bundledWebRuntime": false
+}
